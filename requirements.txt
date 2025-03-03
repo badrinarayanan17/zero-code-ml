@@ -1,0 +1,8 @@
+flask==2.0.3
+pandas==1.3.5
+python-dotenv==0.19.2
+werkzeug==2.0.3
+numpy==1.21.4
+python-magic==0.4.27  # For file type validation
+filetype
+flask-cors
